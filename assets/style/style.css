@@ -129,3 +129,24 @@ img:hover {
     margin: 10px 0;
     font-size: 20px;
 }
+
+/* Contact */
+.contact {
+    padding: 80px 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.contact p {
+    font-size: 25px;
+}
+.contact-info p {
+    font-size: 20px;
+}
+.contact-info a {
+    color: blue;
+}
+
+.contact-info a:hover {
+    color: #4a4a4b;
+}
