@@ -150,3 +150,12 @@ img:hover {
 .contact-info a:hover {
     color: #4a4a4b;
 }
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: #222;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+}
