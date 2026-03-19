@@ -49,3 +49,22 @@ nav ul li a {
 nav ul li a:hover {
     color: #e483a0;
 }
+
+/* Home Section */
+.home {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.hero-banner {
+    font-size: 60px;
+    font-weight: bold;   
+}
+
+.home p {
+    font-size: 30px;   
+}
