@@ -103,3 +103,29 @@ img:hover {
     line-height:1.7;
     color:#333;
 }
+
+/* Skills Section */
+.skills {
+    background-color: #c6c7c7;
+    padding: 80px 20px;
+    
+}
+
+.skill {
+    margin: 30px;
+    display: flex;
+    align-items: center;      
+    justify-content: center;
+    gap: 50px;
+}
+
+.skills ul {
+    list-style: square;
+    text-align: left;
+    display: inline-block;
+}
+
+.skills ul li {
+    margin: 10px 0;
+    font-size: 20px;
+}
