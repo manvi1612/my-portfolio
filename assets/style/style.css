@@ -159,3 +159,16 @@ footer {
     padding: 15px;
     font-size: 18px;
 }
+
+/* Small screen */
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column;
+        gap: 15px;
+    }
+     .skill {
+        flex-direction: column;
+        text-align: center;
+    }
+
+}
